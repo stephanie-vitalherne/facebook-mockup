@@ -1,0 +1,30 @@
+body
+{
+  background-color: #ebebeb;
+}
+
+.fbheader
+{
+  background-color: #3b5998;
+}
+
+.navbar-brand
+{
+  color: white;
+}
+
+.fbheader, .navbar-nav li a
+{
+  color: white;
+}
+
+.navbar-brand img
+{
+  margin-top: -3px;
+  margin-right: -25px;
+}
+
+.glyphicon-search
+{
+  font-size: 18px;
+}
